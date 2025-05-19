@@ -1,2 +1,2 @@
 # reddit-meme-getter
-getting memes from r/memes fghgcb
+getting memes from r/memes 
