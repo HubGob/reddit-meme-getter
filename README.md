@@ -1,2 +1,2 @@
 # reddit-meme-getter
-getting memes from r/memes gsf 
+getting memes from r/memes gsf vsgsbsj
